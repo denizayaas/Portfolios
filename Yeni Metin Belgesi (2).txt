@@ -1,0 +1,129 @@
+<li>
+                    <a href="#">
+                        <img src="https://lh3.googleusercontent.com/ogw/ADGmqu99Jyyqid4aOW-N2yUGoToa6HGZ3Bi8X5ychSqe=s192-c-mo" alt="">
+                        <div class="contact">
+                            <div class="name">Deniz Ayas</div>
+                            <div class="message">Test mesajı</div>
+                        </div>
+                    </a>
+                </li>
+
+                <li>
+                    <a href="#">
+                        <img src="https://lh3.googleusercontent.com/ogw/ADGmqu99Jyyqid4aOW-N2yUGoToa6HGZ3Bi8X5ychSqe=s192-c-mo" alt="">
+                        <div class="contact">
+                            <div class="name">Deniz Ayas</div>
+                            <div class="message">Test mesajı</div>
+                        </div>
+                    </a>
+                </li>
+
+                <li>
+                    <a href="#">
+                        <img src="https://lh3.googleusercontent.com/ogw/ADGmqu99Jyyqid4aOW-N2yUGoToa6HGZ3Bi8X5ychSqe=s192-c-mo" alt="">
+                        <div class="contact">
+                            <div class="name">Deniz Ayas</div>
+                            <div class="message">Test mesajı</div>
+                        </div>
+                    </a>
+                </li>
+
+                <li>
+                    <a href="#">
+                        <img src="https://lh3.googleusercontent.com/ogw/ADGmqu99Jyyqid4aOW-N2yUGoToa6HGZ3Bi8X5ychSqe=s192-c-mo" alt="">
+                        <div class="contact">
+                            <div class="name">Deniz Ayas</div>
+                            <div class="message">Test mesajı</div>
+                        </div>
+                    </a>
+                </li>
+
+                <li>
+                    <a href="#">
+                        <img src="https://lh3.googleusercontent.com/ogw/ADGmqu99Jyyqid4aOW-N2yUGoToa6HGZ3Bi8X5ychSqe=s192-c-mo" alt="">
+                        <div class="contact">
+                            <div class="name">Deniz Ayas</div>
+                            <div class="message">Test mesajı</div>
+                        </div>
+                    </a>
+                </li>
+
+                <li>
+                    <a href="#">
+                        <img src="https://lh3.googleusercontent.com/ogw/ADGmqu99Jyyqid4aOW-N2yUGoToa6HGZ3Bi8X5ychSqe=s192-c-mo" alt="">
+                        <div class="contact">
+                            <div class="name">Deniz Ayas</div>
+                            <div class="message">Test mesajı</div>
+                        </div>
+                    </a>
+                </li>
+
+                <li>
+                    <a href="#">
+                        <img src="https://lh3.googleusercontent.com/ogw/ADGmqu99Jyyqid4aOW-N2yUGoToa6HGZ3Bi8X5ychSqe=s192-c-mo" alt="">
+                        <div class="contact">
+                            <div class="name">Deniz Ayas</div>
+                            <div class="message">Test mesajı</div>
+                        </div>
+                    </a>
+                </li>
+
+                <li>
+                    <a href="#">
+                        <img src="https://lh3.googleusercontent.com/ogw/ADGmqu99Jyyqid4aOW-N2yUGoToa6HGZ3Bi8X5ychSqe=s192-c-mo" alt="">
+                        <div class="contact">
+                            <div class="name">Deniz Ayas</div>
+                            <div class="message">Test mesajı</div>
+                        </div>
+                    </a>
+                </li>
+
+                <li>
+                    <a href="#">
+                        <img src="https://lh3.googleusercontent.com/ogw/ADGmqu99Jyyqid4aOW-N2yUGoToa6HGZ3Bi8X5ychSqe=s192-c-mo" alt="">
+                        <div class="contact">
+                            <div class="name">Deniz Ayas</div>
+                            <div class="message">Test mesajı</div>
+                        </div>
+                    </a>
+                </li>
+
+                <li>
+                    <a href="#">
+                        <img src="https://lh3.googleusercontent.com/ogw/ADGmqu99Jyyqid4aOW-N2yUGoToa6HGZ3Bi8X5ychSqe=s192-c-mo" alt="">
+                        <div class="contact">
+                            <div class="name">Deniz Ayas</div>
+                            <div class="message">Test mesajı</div>
+                        </div>
+                    </a>
+                </li>
+
+                <li>
+                    <a href="#">
+                        <img src="https://lh3.googleusercontent.com/ogw/ADGmqu99Jyyqid4aOW-N2yUGoToa6HGZ3Bi8X5ychSqe=s192-c-mo" alt="">
+                        <div class="contact">
+                            <div class="name">Deniz Ayas</div>
+                            <div class="message">Test mesajı</div>
+                        </div>
+                    </a>
+                </li>
+
+                <li>
+                    <a href="#">
+                        <img src="https://lh3.googleusercontent.com/ogw/ADGmqu99Jyyqid4aOW-N2yUGoToa6HGZ3Bi8X5ychSqe=s192-c-mo" alt="">
+                        <div class="contact">
+                            <div class="name">Deniz Ayas</div>
+                            <div class="message">Test mesajı</div>
+                        </div>
+                    </a>
+                </li>
+
+                <li>
+                    <a href="#">
+                        <img src="https://lh3.googleusercontent.com/ogw/ADGmqu99Jyyqid4aOW-N2yUGoToa6HGZ3Bi8X5ychSqe=s192-c-mo" alt="">
+                        <div class="contact">
+                            <div class="name">Deniz Ayas</div>
+                            <div class="message">Test mesajı</div>
+                        </div>
+                    </a>
+                </li>
